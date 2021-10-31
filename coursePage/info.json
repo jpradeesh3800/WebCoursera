@@ -1,0 +1,506 @@
+{
+    "1":{
+        "course_name":"HTML Course",
+        "content":[
+            {
+                "url":"https://www.youtube.com/embed/Rek0NWPCNOc",
+                "class":"filterDiv all short",
+                "name":"short1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/bWPMSSsVdPk",
+                "class":"filterDiv all short",
+                "name":"short2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/88PXJAA6szs",
+                "class":"filterDiv all medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/qz0aGYrrlhU",
+                "class":"filterDiv all medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/pQN-pnXPaVg",
+                "class":"filterDiv all long",
+                "name":"long1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/BsDoLVMnmZs",
+                "class":"filterDiv all long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"http://nsofts999.yolasite.com/resources/ebooks/HTML.._the_complete_reference.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"HTML, the complete reference"
+            },
+            {
+                "url":"https://www.tutorialspoint.com/html/html_tutorial.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"HTML tutorial by tutorialspoint"
+            },
+            {
+                "url":"https://www.w3schools.com/html/",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"HTML tutorial by w3schools"
+            }
+
+        ]
+    },
+    "2":{
+        "course_name":"CSS Course",
+        "content":[
+            {
+                "url":"https://youtube.com/embed/jV8B24rSN5o",
+                "class":"filterDiv short",
+                "name":"short1"
+            },
+            {
+                "url":"https://youtube.com/embed/1PnVor36_40",
+                "class":"filterDiv short",
+                "name":"short2"
+            },
+            {
+                "url":"https://youtube.com/embed/yfoY53QXEnI",
+                "class":"filterDiv medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://youtube.com/embed/3_9znKVNe5g",
+                "class":"filterDiv medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://youtube.com/embed/1Rs2ND1ryYc",
+                "class":"filterDiv long",
+                "name":"long1"
+            },
+            {
+                "url":"https://youtube.com/embed/Edsxf_NBFrw",
+                "class":"filterDiv long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"https://www.dcpehvpm.org/E-Content/BCA/BCA-II/Web%20Technology/the-complete-reference-html-css-fifth-edition.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"CSS, the complete reference"
+            },
+            {
+                "url":"https://wtf.tw/ref/duckett.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"CSS tutorial by Duckett"
+            },
+            {
+                "url":"https://www.w3schools.com/css/",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"CSS tutorial by w3schools"
+            }
+
+        ]
+    },
+    "3":{
+        "course_name":"JavaScript Course",
+        "content":[
+            {
+                "url":"https://www.youtube.com/embed/W6NZfCO5SIk",
+                "class":"filterDiv short",
+                "name":"short1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/UmnCZ7-9yDY",
+                "class":"filterDiv short",
+                "name":"short2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/PkZNo7MFNFg",
+                "class":"filterDiv medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/o1IaduQICO0",
+                "class":"filterDiv medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/Qqx_wzMmFeA",
+                "class":"filterDiv long",
+                "name":"long1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/o1IaduQICO0",
+                "class":"filterDiv long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"http://index-of.es/JS/JavaScript%20Programmer's%20Reference.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"Javascript, the complete reference"
+            },
+            {
+                "url":"https://www.tutorialspoint.com/javascript/",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"Javascript tutorial by tutorialspoint"
+            },
+            {
+                "url":"https://www.w3schools.com/js/",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"Javascript tutorial by w3schools"
+            }
+
+        ]
+    },
+    "4":{
+        "course_name":"Java Course",
+        "content":[
+            {
+                "url":"https://www.youtube.com/embed/eIrMbAQSU34",
+                "class":"filterDiv short",
+                "name":"short1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/UmnCZ7-9yDY",
+                "class":"filterDiv short",
+                "name":"short2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/8cm1x4bC610",
+                "class":"filterDiv medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/Qgl81fPcLc8",
+                "class":"filterDiv medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/CFD9EFcNZTQ",
+                "class":"filterDiv long",
+                "name":"long1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/hBh_CC5y8-s",
+                "class":"filterDiv long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"https://gfgc.kar.nic.in/sirmv-science/GenericDocHandler/138-a2973dc6-c024-4d81-be6d-5c3344f232ce.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"JAVA, the complete reference"
+            },
+            {
+                "url":"https://www.tutorialspoint.com/java/",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"JAVA tutorial by tutorialspoint"
+            },
+            {
+                "url":"https://www.w3schools.com/java/",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"JAVA tutorial by w3schools"
+            }
+
+        ]
+    },
+    "5":{
+        "course_name":"AJAX Course",
+        "content":[
+            {
+                "url":"https://www.youtube.com/embed/fLJItEI7TE0",
+                "class":"filterDiv short",
+                "name":"short1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/tHRNuBf_8xg",
+                "class":"filterDiv short",
+                "name":"short2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/FJZEVmF3eDg",
+                "class":"filterDiv medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/rJesac0_Ftw",
+                "class":"filterDiv medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/Y4rG-zTNuro",
+                "class":"filterDiv long",
+                "name":"long1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/82hnvUYY6QA",
+                "class":"filterDiv long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"https://inspirit.net.in/books/html,%20css%20and%20javascript/AJAX%20-%20The%20Complete%20Reference.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"AJAX, the complete reference"
+            },
+            {
+                "url":"https://thesharad.files.wordpress.com/2010/10/ajax-a-beginners-guide.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"AJAX for beginners"
+            },
+            {
+                "url":"https://www.w3schools.com/xml/ajax_intro.asp",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"AJAX tutorial by w3schools"
+            }
+
+        ]
+    },
+    "6":{
+        "course_name":"Python Course",
+        "content":[
+            {
+                "url":"https://www.youtube.com/embed/I2wURDqiXdM",
+                "class":"filterDiv short",
+                "name":"short1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/fr1f84rg4Nw",
+                "class":"filterDiv short",
+                "name":"short2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/kqtD5dpn9C8",
+                "class":"filterDiv medium",
+                "name":"medium1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/woVJ4N5nl_s",
+                "class":"filterDiv medium",
+                "name":"medium2"
+            },
+            {
+                "url":"https://www.youtube.com/embed/_uQrJ0TkZlc",
+                "class":"filterDiv long",
+                "name":"long1"
+            },
+            {
+                "url":"https://www.youtube.com/embed/rfscVS0vtbw",
+                "class":"filterDiv long",
+                "name":"long2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Short",
+                "name":"Short2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Medium",
+                "name":"Medium2"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long1"
+            },
+            {
+                "url":"https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+                "class":"filterDiv All Long",
+                "name":"Long2"
+            },
+            {
+                "url":"https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book1",
+                "value":"Python, the complete reference"
+            },
+            {
+                "url":"http://englishonlineclub.com/pdf/Learn%20Python%20in%207%20Days%20-%20Get%20up-and-running%20with%20Python%20[EnglishOnlineClub.com].pdf",
+                "class":"fas fa-file-pdf",
+                "name":"book2",
+                "value":"Learn python in 7 days"
+            },
+            {
+                "url":"https://www.w3schools.com/python/default.asp",
+                "class":"fas fa-file-pdf",
+                "name":"book3",
+                "value":"PYTHON tutorial by w3schools"
+            }
+
+        ]
+    }
+}

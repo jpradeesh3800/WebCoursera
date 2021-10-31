@@ -1,0 +1,142 @@
+body{
+  padding-left: 20px;
+  margin: 10px;
+}
+.mainheading{
+  display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;
+  font-size:40px;
+  background-color: #45b29c;
+  color:#ffffff;
+  cursor: default;
+}
+.container {
+    overflow: hidden;
+}
+.blocks{
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px;
+  margin: 10px;
+}
+.blocks:hover {
+  box-shadow: 0 8px 24px 0 rgba(0,0,0,0.2);
+}
+.blocks11{
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px;
+  margin: 10px;
+}
+.blocks11:hover {
+  box-shadow: 0 8px 24px 0 rgba(0,0,0,0.2);
+}
+.headings{
+  background-color: #45b29c;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px;
+  cursor: default;
+}
+#checkbox{
+  float: right;
+  width: 20px;
+  height: 20px;
+  color: #45b29c;
+}
+.filterDiv {
+  /*float: left;*/
+  background-color: #45b29c;
+  color: #ffffff;
+  line-height: 100px;
+  text-align: center;
+  margin: 2px;
+  display: none;
+}
+.show {
+  display: block;
+}
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #ddd;
+}
+.btn:focus {
+  background-color: #45b29c;
+  color: white;
+}
+.menu{
+  width: 35px;
+  height: 5px;
+  background-color: #45b29c;
+  margin: 6px 0;
+}
+.dropbtn {
+  background-color: #ffffff;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 10px;
+  margin: 10px;
+}  
+.dropdown {
+  position: relative;
+  display: inline-block;
+}  
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin-left: 10px;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover{
+  background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbtn {
+  background-color: #f1f1f1;
+}
+
+.button {
+  background-color: green; /* Green */
+  border: none;
+  padding: 9px 18px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  float:right;
+}
+/* .button {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+} */

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>  
+<head>  
+<title>Job Application</title>  
+</head>  
+<body>  
+<h3>Job Application </h3>  
+<form name="myForm" onsubmit="return validate()">  
+<h4>First Name</h4>  
+<input type="text" name="fname" placeholder="Enter your first name" />  
+<h4>Last Name</h4>  
+<input type="text" name="lname" placeholder="Enter your last name"/>
+<h4>Date of Birth</h4>  
+<input type="date" name="dob"/>
+<h4>Phone Number</h4>  
+<input type="tel" name="phone" placeholder="Enter your phone number"/>
+<h4>Email ID</h4>  
+<input type="email" name="email" placeholder="Enter your email address"/>
+<h4>Address</h4>  
+<input type="text" name="addr" placeholder="Enter your address"/>
+<h4>Qualificaiton</h4>  
+<input type="text" name="qual" placeholder="Enter your last qualifications"/>
+<h4>CGPA</h4>  
+<input type="number" step="0.01" name="cgpa" placeholder="Enter your CGPA"/>
+</br></br>  
+<input type="submit" value="Login" onsubmit="count()"/>  
+</form>  
+<script type="text/javascript"> 
+
+        var count = 0;
+      function validate() {
+      
+         if( document.myForm.fname.value == "" ) {
+            alert( "Please provide your First name!" );
+            document.myForm.fname.focus() ;
+            return false;
+         }
+         if( document.myForm.lname.value == "" ) {
+            alert( "Please provide your Last name!" );
+            document.myForm.lname.focus() ;
+            return false;
+         }
+         if( document.myForm.dob.value == "" ) {
+            alert( "Please enter your Date of Birth" );
+            document.myForm.dob.focus() ;
+            return false;
+         }
+         if( document.myForm.phone.value == "" ) {
+            alert( "Please provide your valid phone number!" );
+            document.myForm.phone.focus() ;
+            return false;
+         }
+         if( document.myForm.email.value == "" ) {
+            alert( "Please provide your Email!" );
+            document.myForm.email.focus() ;
+            return false;
+         }
+         if( document.myForm.addr.value == "" ) {
+            alert( "Please provide your Address" );
+            document.myForm.addr.focus() ;
+            return false;
+         }
+         if( document.myForm.qual.value == "" ) {
+            alert( "Please provide your qualifications!" );
+            document.myForm.qual.focus() ;
+            return false;
+         }
+         if( document.myForm.cgpa.value == "" ) {
+            alert( "Please provide your CGPA!" );
+            document.myForm.cgpa.focus() ;
+            return false;
+         }
+         return( true );
+      }
+      function count(){
+          count++;
+        alert("The number of applicants: ", count);
+      }
+ 
+</script>  
+</body>  
+</html> 

@@ -1,0 +1,102 @@
+.container{
+    background-color: #45b29c;
+    height: 200px;
+    padding: 10px;
+    margin: 0px;
+    position: relative;
+
+}
+.heading{
+    color: white;
+    font-size:50px;
+    text-align: center;
+}
+.input_box {
+    padding: 6px;
+    font-size: 17px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border: none;
+    width: 400px;
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+.courseTile{
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 30px;
+    margin: 10px;
+}
+.courseTile:hover {
+    box-shadow: 0 8px 24px 0 rgba(0,0,0,0.2);
+}
+.courseList{
+    margin: 50px 300px 50px 300px;
+}
+
+.courseImage{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.courseTitle{
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.courseDetails{
+    color: black;
+    font-size: 15px;
+    margin-left: 150px;
+    text-decoration: none;
+}
+
+footer{
+    width: 100%;
+    background-color:#45b29c;
+    color: white;
+    position: relative;
+}
+
+.terms{
+    padding: 0px 600px 0px 700px;
+}
+.policy{
+    padding: 0px 600px 0px 670px;
+}
+.topic{
+    width: 450px;
+    padding: 10px;
+}
+.help{
+    right: 10px;
+    bottom: 10px;
+    position: absolute;
+}
+.description{
+    padding: 6px;
+    width: 200px;
+}
+.send{
+    background-color: grey; /* Green */
+    border: none;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+.button {
+  background-color: grey; /* Green */
+  border: none;
+  padding: 9px 18px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  float:right;
+}
